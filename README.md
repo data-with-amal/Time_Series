@@ -60,8 +60,8 @@ imbalance signals for program planners.
 ## Setup
 
 ```bash
-git clone <this-repo-url>
-cd <this-repo>
+git clone https://github.com/data-with-amal/Time_Series
+cd https://github.com/data-with-amal/Time_Series
 pip install -r requirements.txt
 ```
 
